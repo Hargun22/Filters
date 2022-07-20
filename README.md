@@ -10,14 +10,17 @@ Kernels can be found at: https://en.wikipedia.org/wiki/Kernel_(image_processing)
 
 The text file "kernel" is formatted like so:
 
+```
 n
 scale
 n rows of n numbers each
+```
 For example:
 
+```
 3
 9
 1 1 1
 1 1 1
 1 1 1
-
+```
